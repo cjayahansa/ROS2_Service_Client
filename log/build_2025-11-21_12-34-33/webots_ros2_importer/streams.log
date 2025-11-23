@@ -1,0 +1,25 @@
+[0.651s] Invoking command in '/home/cjayahansa/ros2N_ws/build/webots_ros2_importer': PS1=\[\033[01;36m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]$ PYTHONPATH=/home/cjayahansa/ros2N_ws/build/webots_ros2_importer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cjayahansa/ros2N_ws/install/webots_ros2_importer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cjayahansa/ros2N_ws/build/webots_ros2_importer/build --no-deps symlink_data
+[0.899s] running develop
+[1.078s] running egg_info
+[1.078s] creating webots_ros2_importer.egg-info
+[1.078s] writing webots_ros2_importer.egg-info/PKG-INFO
+[1.078s] writing dependency_links to webots_ros2_importer.egg-info/dependency_links.txt
+[1.078s] writing entry points to webots_ros2_importer.egg-info/entry_points.txt
+[1.078s] writing requirements to webots_ros2_importer.egg-info/requires.txt
+[1.078s] writing top-level names to webots_ros2_importer.egg-info/top_level.txt
+[1.078s] writing manifest file 'webots_ros2_importer.egg-info/SOURCES.txt'
+[1.080s] reading manifest file 'webots_ros2_importer.egg-info/SOURCES.txt'
+[1.080s] writing manifest file 'webots_ros2_importer.egg-info/SOURCES.txt'
+[1.081s] running build_ext
+[1.082s] Creating /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/lib/python3.10/site-packages/webots-ros2-importer.egg-link (link to .)
+[1.082s] Installing urdf2proto script to /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/lib/webots_ros2_importer
+[1.082s] Installing xacro2proto script to /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/lib/webots_ros2_importer
+[1.082s] 
+[1.082s] Installed /home/cjayahansa/ros2N_ws/build/webots_ros2_importer
+[1.083s] running symlink_data
+[1.083s] creating /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/share/ament_index
+[1.083s] creating /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/share/ament_index/resource_index
+[1.083s] creating /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/share/ament_index/resource_index/packages
+[1.083s] symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_importer/resource/webots_ros2_importer -> /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/share/ament_index/resource_index/packages
+[1.083s] symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_importer/package.xml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_importer/share/webots_ros2_importer
+[1.120s] Invoked command in '/home/cjayahansa/ros2N_ws/build/webots_ros2_importer' returned '0': PS1=\[\033[01;36m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]$ PYTHONPATH=/home/cjayahansa/ros2N_ws/build/webots_ros2_importer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cjayahansa/ros2N_ws/install/webots_ros2_importer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/cjayahansa/ros2N_ws/build/webots_ros2_importer/build --no-deps symlink_data

@@ -1,0 +1,36 @@
+running develop
+running egg_info
+creating webots_ros2_husarion.egg-info
+writing webots_ros2_husarion.egg-info/PKG-INFO
+writing dependency_links to webots_ros2_husarion.egg-info/dependency_links.txt
+writing entry points to webots_ros2_husarion.egg-info/entry_points.txt
+writing requirements to webots_ros2_husarion.egg-info/requires.txt
+writing top-level names to webots_ros2_husarion.egg-info/top_level.txt
+writing manifest file 'webots_ros2_husarion.egg-info/SOURCES.txt'
+reading manifest file 'webots_ros2_husarion.egg-info/SOURCES.txt'
+writing manifest file 'webots_ros2_husarion.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/lib/python3.10/site-packages/webots-ros2-husarion.egg-link (link to .)
+
+Installed /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion
+running symlink_data
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/ament_index
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/ament_index/resource_index
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/ament_index/resource_index/packages
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/webots_ros2_husarion -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/ament_index/resource_index/packages
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/launch
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/launch/rosbot_launch.py -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/launch
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/launch/rosbot_xl_launch.py -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/launch
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/rosbot_controllers.yaml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/rosbot_xl_controllers.yaml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/ekf.yaml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/laser_filter.yaml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/rosbot_webots.urdf -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/resource/rosbot_links_remappings.yaml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/resource
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/worlds/rosbot.wbt -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/worlds/rosbot_xl.wbt -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds/meshes
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/worlds/meshes/husarion_world.dae -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion/worlds/meshes
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_husarion/package.xml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_husarion/share/webots_ros2_husarion

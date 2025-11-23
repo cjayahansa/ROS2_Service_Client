@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating webots_ros2_tests.egg-info
+writing webots_ros2_tests.egg-info/PKG-INFO
+writing dependency_links to webots_ros2_tests.egg-info/dependency_links.txt
+writing requirements to webots_ros2_tests.egg-info/requires.txt
+writing top-level names to webots_ros2_tests.egg-info/top_level.txt
+writing manifest file 'webots_ros2_tests.egg-info/SOURCES.txt'
+reading manifest file 'webots_ros2_tests.egg-info/SOURCES.txt'
+writing manifest file 'webots_ros2_tests.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/lib/python3.10/site-packages/webots-ros2-tests.egg-link (link to .)
+
+Installed /home/cjayahansa/ros2N_ws/build/webots_ros2_tests
+running symlink_data
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/ament_index
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/ament_index/resource_index
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/ament_index/resource_index/packages
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_tests/resource/webots_ros2_tests -> /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/ament_index/resource_index/packages
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_tests/package.xml -> /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/webots_ros2_tests
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/webots_ros2_tests/worlds
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_tests/worlds/driver_test.wbt -> /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/webots_ros2_tests/worlds
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_tests/worlds/.driver_test.wbproj -> /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/webots_ros2_tests/worlds
+creating /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/webots_ros2_tests/resource
+symbolically linking /home/cjayahansa/ros2N_ws/build/webots_ros2_tests/resource/driver_test.urdf -> /home/cjayahansa/ros2N_ws/install/webots_ros2_tests/share/webots_ros2_tests/resource
