@@ -1,0 +1,6 @@
+[console_scripts]
+draw_circle = my_robot_controller.draw_circle:main
+my_robot_controller = my_robot_controller.my_robot_controller:main
+pose_subscribe = my_robot_controller.pose_subscribe:main
+turtle_controller = my_robot_controller.turtle_controller:main
+
